@@ -1,2 +1,10 @@
 # Read Me
-123
+Git CMD:  
+
+  git init  
+  git add .  
+  git commit -m "first commit"  
+  git branch -M main  
+  git remote add origin https://github.com/Jindouz/html_p1.git  
+  git push -u origin main  
+
