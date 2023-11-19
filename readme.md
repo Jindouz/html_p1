@@ -8,3 +8,7 @@ Git CMD:
   git remote add origin https://github.com/Jindouz/html_p1.git  
   git push -u origin main  
 
+
+git add .  
+git commit -m "update_x"  
+git push -u origin main  
